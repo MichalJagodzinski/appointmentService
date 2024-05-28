@@ -15,4 +15,6 @@ public class User {
     private String password;
     private String email;
 
+    public User(String name, String surname, String login, String password, String email) {
+    }
 }
